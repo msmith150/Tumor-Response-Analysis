@@ -1,4 +1,4 @@
-# 📊 Pymaceuticals Challenge: Tumor Response Analysis
+# 📊 Tumor Response Analysis
 
 ## 🧪 Project Overview
 
